@@ -1,4 +1,5 @@
-
+# 11/01/23
+# print block letters of initials
 name = """
  sss    K    k
 s    s  k   k
